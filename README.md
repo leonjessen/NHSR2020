@@ -40,7 +40,7 @@ the `00_exercises.html` file and choose ‘View in Web Browser’)*
     Networks](Talks/01_introduction_to_artificial_neural_networks.html)
 
   - 09.50 - 10.20 (30min) [Exercise 1: Prototyping an ANN in
-    R](Exercises/00_exercises.html#1_Prototyping_an_ANN_in_R)
+    R](https://htmlpreview.github.io/?https://github.com/leonjessen/NHSR2020/blob/main/Exercises/00_exercises.html#1_Prototyping_an_ANN_in_R)
 
   - 10.20 - 10.30 (10min) Break I
 
