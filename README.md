@@ -31,11 +31,10 @@ fingers dirty\!
 
 Total time 4h: 09.30-13.30 (GMT)
 
-*Please note: All slides are available in the `Talks`-dir in your
-RStudio session `Files` pane, left-click on the `.html` file and choose
-‘View in Web Browser’. The exercises are in the `Exercises`-dir,
-left-click on the `00_exercises.html` file and choose ‘View in Web
-Browser’)*
+*Important: All slides are available in the `Talks`-dir in your RStudio
+session `Files` pane, left-click on the `.html` file and choose ‘View in
+Web Browser’. The exercises are in the `Exercises`-dir, left-click on
+the `00_exercises.html` file and choose ‘View in Web Browser’)*
 
   - 09.30 - 09.50 (20min) [Talk: Introduction to Artificial Neural
     Networks](Talks/01_introduction_to_artificial_neural_networks.html)
@@ -66,7 +65,7 @@ Browser’)*
   - 11.30 - 12.00 (30min) [Exercise 3: Hello
     Keras](Exercises/00_exercises.html#3_Hello_Keras)
 
-  - 12.00 - 12.15 (15min) [Brief talk and exercise walk-through: A bit
+  - 12.00 - 12.15 (15min) [Brief talk and exercise 3 walk-through: A bit
     more on Keras](Talks/05_a_bit_more_on_keras.html)
 
   - 12.15 - 12.25 (10min) Break III
@@ -82,8 +81,8 @@ Browser’)*
   - 12.55 - 13.20 (25min) [Exercise 5: A Case
     Story](Exercises/00_exercises.html#5_A_Case_Story)
 
-  - 13.20 - 13.30 (10min) [Brief talk: Session 2
-    Summary](Talks/06_session_2_summary.html)
+  - 13.20 - 13.30 (10min) [Brief talk and exercise 5 walk-through:
+    Session 2 Summary](Talks/06_session_2_summary.html)
 
 ## Additional Resources
 
