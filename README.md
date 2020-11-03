@@ -50,7 +50,7 @@ the `00_exercises.html` file and choose ‘View in Web Browser’)*
     in R part 1](Talks/02_introduction_to_keras_1.html)
 
   - 10.40 - 11.00 (20min) [Exercise 2: TensorFlow
-    Playground](Exercises/00_exercises.html#2_TensorFlow_Playground)
+    Playground](https://htmlpreview.github.io/?https://github.com/leonjessen/NHSR2020/blob/main/Exercises/00_exercises.html#2_TensorFlow_Playground)
 
   - 11.00 - 11.10 Exercise 2 walk-through
 
@@ -63,7 +63,7 @@ the `00_exercises.html` file and choose ‘View in Web Browser’)*
   - 11.20 - 11.30 (10min) Break II
 
   - 11.30 - 12.00 (30min) [Exercise 3: Hello
-    Keras](Exercises/00_exercises.html#3_Hello_Keras)
+    Keras](https://htmlpreview.github.io/?https://github.com/leonjessen/NHSR2020/blob/main/Exercises/00_exercises.html#3_Hello_Keras)
 
   - 12.00 - 12.15 (15min) [Brief talk and exercise 3 walk-through: A bit
     more on Keras](Talks/05_a_bit_more_on_keras.html)
@@ -73,13 +73,13 @@ the `00_exercises.html` file and choose ‘View in Web Browser’)*
   - 12.25 - 12.55 (30min) Exercise 4: Now, you must choose between:
     
       - [Exercise 4a: Predicting commodity prices
-        (regression)](Exercises/00_exercises.html#4a_Predicting_commodity_prices_\(regression\))
+        (regression)](https://htmlpreview.github.io/?https://github.com/leonjessen/NHSR2020/blob/main/Exercises/00_exercises.html#4a_Predicting_commodity_prices_\(regression\))
         or
       - [Exercise 4b: Deep Learning for Cancer Immunotherapy
-        (Classification)](Exercises/00_exercises.html#4b_Deep_Learning_for_Cancer_Immunotherapy_\(Classification\))
+        (Classification)](https://htmlpreview.github.io/?https://github.com/leonjessen/NHSR2020/blob/main/Exercises/00_exercises.html#4b_Deep_Learning_for_Cancer_Immunotherapy_\(Classification\))
 
   - 12.55 - 13.20 (25min) [Exercise 5: A Case
-    Story](Exercises/00_exercises.html#5_A_Case_Story)
+    Story](https://htmlpreview.github.io/?https://github.com/leonjessen/NHSR2020/blob/main/Exercises/00_exercises.html#5_A_Case_Story)
 
   - 13.20 - 13.30 (10min) [Brief talk and exercise 5 walk-through:
     Session 2 Summary](Talks/06_session_2_summary.html)
