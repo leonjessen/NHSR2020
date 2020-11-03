@@ -31,10 +31,13 @@ fingers dirty\!
 
 Total time 4h: 09.30-13.30 (GMT)
 
-*Important: All slides are available in the `Talks`-dir in your RStudio
-session `Files` pane, left-click on the `.html` file and choose ‘View in
-Web Browser’. The exercises are in the `Exercises`-dir, left-click on
-the `00_exercises.html` file and choose ‘View in Web Browser’)*
+*Important: Preview does not work on slides. All slides are available in
+the `Talks`-dir in your RStudio session `Files` pane, left-click on the
+`.html` file and choose ‘View in Web Browser’. The exercises are in the
+`Exercises`-dir, left-click on the `00_exercises.html` file and choose
+‘View in Web Browser’ or simply click
+[here](https://htmlpreview.github.io/?https://github.com/leonjessen/NHSR2020/blob/main/Exercises/00_exercises.html)
+for the exercise book)*
 
   - 09.30 - 09.50 (20min) [Talk: Introduction to Artificial Neural
     Networks](Talks/01_introduction_to_artificial_neural_networks.html)
